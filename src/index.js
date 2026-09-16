@@ -1,7 +1,8 @@
 function sayHi(name) {
-  return `Hello ${name}`
+  return `Hi ${name}`
 }
 
 module.exports = sayHi
 
 // new comment
+//trival change
